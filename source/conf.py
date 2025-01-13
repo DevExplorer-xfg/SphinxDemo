@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 't1'
-copyright = '2024, cxf'
-author = 'cxf'
+project = 't2'
+copyright = '2024, xfg'
+author = 'xfg'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
